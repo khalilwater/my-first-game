@@ -1,0 +1,6 @@
+{
+  "name": "Two Player Touch Ball",
+  "description": "An exciting 2-player local touch game to throw balls, hit targets, and score against your opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
